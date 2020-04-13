@@ -1,5 +1,5 @@
 # Python QR code generator
-QR code generator to represent my  proficiency in Python.
+QR code generator to represent my  proficiency in Python. The given code is written on Spyder.
 
 Instructions
 Download the qrcode.exe file provided and run it.
